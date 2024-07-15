@@ -1,4 +1,5 @@
- 👋 Hi, I’m Seong hwan
+ 👋 Hi, I’m Seong hwan from south Korea🇰🇷
+ 
 
 
  <br />
