@@ -1,6 +1,4 @@
- 👋 Hi, I’m Seong hwan from south Korea🇰🇷
- 
-
+👋 Hi, I’m Seonghwan from South Korea 🇰🇷. I’m thrilled to be on this coding journey! I love diving into new technologies and solving tricky problems that make me scratch my head. Coding has become my favorite puzzle, and every day I discover new pieces that fit into the grand picture. When I’m not glued to my computer screen, I enjoy exploring the beautiful landscapes of Korea, indulging in delicious Korean cuisine, and sharing laughs with friends and family. I’m always excited to learn, grow, and connect with fellow coding enthusiasts. Let’s code something amazing together!
 
  <br />
 <h2> My tech stack 📚 </h2>
