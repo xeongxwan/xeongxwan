@@ -1,7 +1,10 @@
-👋 Hi, I’m Seonghwan from South Korea 🇰🇷. I’m passionate about coding and love solving challenging problems. When I’m not coding, I enjoy exploring Korea’s beautiful landscapes, indulging in delicious food, and spending time with friends and family. I’m excited to learn and grow as a developer. Let’s create something amazing together!
+# 👋 Hi, I’m Seonghwan from South Korea 🇰🇷
 
- <br />
-<h2> My tech stack 📚 </h2>
+I’m passionate about coding and love solving challenging problems. When I’m not coding, I enjoy exploring Korea’s beautiful landscapes, indulging in delicious food, and spending time with friends and family. I’m excited to learn and grow as a developer. Let’s create something amazing together!
+
+<br />
+
+## 📚 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -16,4 +19,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br/>
-
