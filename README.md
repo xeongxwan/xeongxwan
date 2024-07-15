@@ -12,5 +12,6 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff)
 <br/>
 
