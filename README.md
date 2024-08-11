@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Seonghwan from South Korea 🇰🇷
+# 👋 Hi, I’m Seonghwan
 
 I’m passionate about coding and love solving challenging problems. When I’m not coding, I enjoy exploring Korea’s beautiful landscapes, indulging in delicious food, and spending time with friends and family. I’m excited to learn and grow as a developer. Let’s create something amazing together!
 
