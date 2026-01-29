@@ -14,33 +14,33 @@ I aim for code that is easy to read, improve, and trust.
 ## 🛠 Tech Stack  
 
 ### 🌐 Frontend  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-rounded&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-222222?style=flat-rounded&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-rounded&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-rounded&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-rounded&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-rounded&logo=spring&logoColor=white)
 
 ### 🗄 Database & BaaS  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-rounded&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-rounded&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=flat-rounded&logo=firebase&logoColor=FFCD34)
 
 ### ☁️ Infra  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-rounded&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-rounded&logo=amazonaws&logoColor=white)
 
 ### 🚀 Deployment & Tools  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Zustand](https://img.shields.io/badge/zustand-%234E4E4E.svg?style=for-the-badge&logo=react&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-rounded&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-rounded&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4E4E4E?style=flat-rounded&logo=react&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-rounded&logo=postman&logoColor=white)
 
 ### 📱 Mobile  
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-rounded&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-rounded&logo=react&logoColor=61DAFB)
 
-<br/>
+<br />
